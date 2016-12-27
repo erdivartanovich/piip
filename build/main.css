@@ -22127,14 +22127,14 @@ page-home ion-title div {
   padding: 0;
   margin: 0;
   width: 100%;
-  font-size: 1em;
+  font-size: 0.6em;
 }
 
 page-home ion-title .piip {
   padding: 0;
   margin: 0;
   width: 100%;
-  font-size: 0.6em;
+  font-size: 0.5em;
 }
 
 page-home .nick {
